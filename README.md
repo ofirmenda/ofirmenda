@@ -67,4 +67,4 @@ Currently looking for a **Junior Software Engineering position**.
 
 </div>
 
-⭐
+
