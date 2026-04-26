@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=120&section=header"/>
 
-# Hey, I'm Ofir 👋  
+# 🌸 Hey, I'm Ofir 🌸
 ### Welcome to my GitHub — feel free to explore my projects :)
 
 </div>
@@ -23,7 +23,7 @@ Currently looking for a **Junior Software Engineering position**.
 
 ---
 
-## 🌸 Things I've Built
+##  Things I've Built
 
 ### 📧 Homail – Gmail-like Web App
 - Full-stack email system (React + Node.js)
@@ -48,6 +48,7 @@ Currently looking for a **Junior Software Engineering position**.
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Assembly](https://img.shields.io/badge/-Assembly-000?&logo=Assembly)
 
 ### Technologies
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
