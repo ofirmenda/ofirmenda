@@ -19,7 +19,7 @@ I'm 25 years old and a third-year Computer Science student.
 I enjoy building projects that help me understand how things work and create real value.  
 I'm especially interested in **systems, backend development, and real-world problem solving**.  
 
-Currently looking for a **Junior Software Engineering position**.
+Currently looking for a **Software Engineering position**.
 
 ---
 
