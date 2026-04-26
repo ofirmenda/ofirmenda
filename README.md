@@ -12,7 +12,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=120&section=header"/>
 
 </div>
-Welcome to my GitHub — feel free to explore my projects :)
+Welcome to my github feel free to explore my projects :)
 - 📧 ofir1410@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/ofir-menda/  
 ---
