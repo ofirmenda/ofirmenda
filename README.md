@@ -2,15 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=120&section=header"/>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=35&duration=3500&pause=700&color=F58BC7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+I'm+Ofir+🌸;Computer+Science+Student;Building+projects+to+understand+how+things+work" />
+# Hey, I'm Ofir 👋  
+### Welcome to my GitHub — feel free to explore my projects :)
 
 </div>
-
----
-
-Welcome to my GitHub — feel free to explore my projects :)
 
 <p align="center">
 📧 <a href="mailto:ofir1410@gmail.com">ofir1410@gmail.com</a> •
@@ -19,23 +14,32 @@ Welcome to my GitHub — feel free to explore my projects :)
 
 ---
 
-## About Me
+## 🌿 About Me
 I'm 25 years old and a third-year Computer Science student.  
 I enjoy building projects that help me understand how things work and create real value.  
+I'm especially interested in **systems, backend development, and real-world problem solving**.  
+
 Currently looking for a **Junior Software Engineering position**.
 
 ---
 
-## Things I've Built
+## 🌸 Things I've Built
 
-### Full Stack Projects
-
-[![](https://img.shields.io/badge/-📧%20Homail-000)](https://github.com/ofirmenda/Homail)  
-[![](https://img.shields.io/badge/-🎧%20Audio--Intel-000)](https://github.com/ofirmenda/Audio-Intel)
+### 📧 Homail – Gmail-like Web App
+- Full-stack email system (React + Node.js)
+- JWT authentication and REST API
+- Labels, inbox management, and spam filtering (Bloom Filter)
 
 ---
 
-## Tech Stack
+### 🎧 Audio-Intel – Audio Analysis System
+- Audio transcription and speaker identification  
+- Relationship analysis between speakers  
+- Built with .NET + Python (ML tools)
+
+---
+
+## 🌱 Tech Stack
 
 ### Languages
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
