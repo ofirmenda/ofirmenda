@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=120&section=header"/>
 
 # 🌸 Hey, I'm Ofir 🌸
-### Welcome to my GitHub — feel free to explore my projects :)
+### Welcome to my GitHub, feel free to explore my projects :)
 
 </div>
 
