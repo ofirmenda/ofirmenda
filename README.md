@@ -23,22 +23,6 @@ Currently looking for a **Junior Software Engineering position**.
 
 ---
 
-##  Things I've Built
-
-### 📧 Homail – Gmail-like Web App
-- Full-stack email system (React + Node.js)
-- JWT authentication and REST API
-- Labels, inbox management, and spam filtering (Bloom Filter)
-
----
-
-### 🎧 Audio-Intel – Audio Analysis System
-- Audio transcription and speaker identification  
-- Relationship analysis between speakers  
-- Built with .NET + Python (ML tools)
-
----
-
 ## 🌱 Tech Stack
 
 ### Languages
