@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi, I'm Ofir 👋
 
-<!--
-**ofirmenda/ofirmenda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Third-year Computer Science student  
+ Software Developer focused on systems & backend  
+ Passionate about building real-world, scalable systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  About Me
+- Strong foundation in **Data Structures, Algorithms, and Operating Systems**
+- I build projects to understand how things work.
+---
+
+## Tech Stack
+
+**Languages:**  
+C | C++ | Python | Java | JavaScript | Assembly  
+
+**Backend & Systems:**  
+Linux | Multithreading | Networking | REST APIs  
+
+**Frontend:**  
+React | HTML | CSS  
+
+**Databases:**  
+MongoDB | SQL  
+
+**Tools:**  
+Git | Docker | Jira  
+
+---
+
+##  Projects
+
+###  Homail – Gmail-like Web App
+Full-stack email system with authentication, labels, and spam filtering  
+- JWT authentication  
+- REST API (Node.js)  
+- React frontend  
+- Bloom Filter for blacklist detection  
+
+---
+
+###  Audio-Intel – Audio Analysis System
+Desktop app for analyzing conversations and detecting speaker relationships  
+- Speaker diarization + transcription  
+- Graph-based relationship modeling  
+- Built with **.NET + Python (Whisper, ML tools)**  
+
+---
+
+## 📈 Currently
+- Improving system design & backend architecture  
+- Looking for a **Software Engineering Internship**
+
+---
+
+## 📫 Contact
+- 📧 ofir1410@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/ofir-menda/  
+
+---
+
+⭐ *Always learning. Always building.*
