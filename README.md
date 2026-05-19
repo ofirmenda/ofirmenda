@@ -10,9 +10,9 @@
 </div>
 
 <p align="center">
-<a href="mailto:ofir1410@gmail.com"><img src="email.png" width="28" align="center" alt="email"/></a>
+<a href="mailto:ofir1410@gmail.com"><img src="email.png" width="50" align="center" alt="email"/></a>
 <a href="mailto:ofir1410@gmail.com">ofir1410@gmail.com</a>
-&nbsp;•&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ofir-menda/"><img src="linkedin.png" width="28" align="center" alt="linkedin"/></a>
 <a href="https://www.linkedin.com/in/ofir-menda/">LinkedIn</a>
 </p>
@@ -22,14 +22,13 @@
 <h2><img src="flower.png" width="26" align="center" alt=""/> About Me</h2>
 
 I'm 25 years old and a third-year Computer Science student.  
-I enjoy building projects that help me understand how things work and create real value.  
-I'm especially interested in **systems, backend development, and real-world problem solving**.  
+I enjoy building projects that help me understand how things work and create real value.    
 
 Currently looking for a **Software Engineering position**.
 
 ---
 
-<h2><img src="flower.png" width="26" align="center" alt=""/> Projects</h2>
+<h2><img src="flower.png" width="26" align="center" alt=""/> Projects- you can click it! </h2>
 
 <p align="center">
   <a href="https://github.com/ofirmenda/CV-helper">
