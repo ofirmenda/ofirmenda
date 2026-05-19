@@ -52,7 +52,6 @@ Currently looking for a **Software Engineering position**.
   </a>
 </p>
 
----
 
 <div align="center">
 
