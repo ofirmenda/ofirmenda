@@ -40,7 +40,7 @@ Currently looking for a **Software Engineering position**.
   </a>
   &nbsp;
   <a href="https://github.com/ofirmenda/KOLLAB">
-    <img src="projects/kollab.png" alt="KOLLAB" width="155" style="border-radius: 18px;"/>
+    <img src="projects/kollab.png" alt="KOLLAB" width="150" style="border-radius: 18px;"/>
   </a>
   &nbsp;
   <a href="https://github.com/ofirmenda/personal-assistant">
@@ -49,7 +49,6 @@ Currently looking for a **Software Engineering position**.
   &nbsp;
   <a href="https://github.com/ofirmenda/uply">
     <img src="projects/uply.png" alt="UPLY" width="155" style="border-radius: 18px;"/><br/>
-    <sub><i>(in process)</i></sub>
   </a>
 </p>
 
