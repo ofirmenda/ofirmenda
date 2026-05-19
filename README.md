@@ -48,7 +48,8 @@ Currently looking for a **Software Engineering position**.
   </a>
   &nbsp;
   <a href="https://github.com/ofirmenda/uply">
-    <img src="projects/uply.png" alt="UPLY" width="155" style="border-radius: 18px;"/>
+    <img src="projects/uply.png" alt="UPLY" width="155" style="border-radius: 18px;"/><br/>
+    <sub><i>(in process)</i></sub>
   </a>
 </p>
 
@@ -58,6 +59,5 @@ Currently looking for a **Software Engineering position**.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=100&section=footer"/>
 
-<sub> thanks for visiting </sub>
 
 </div>
