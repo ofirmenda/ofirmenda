@@ -47,9 +47,9 @@ Currently looking for a **Software Engineering position**.
     <img src="projects/personalassistant.png" alt="PERSONAL ASSISTANT" width="155" style="border-radius: 18px;"/>
   </a>
   &nbsp;
-  <a href="https://github.com/ofirmenda/uply">
-    <img src="projects/uply.png" alt="UPLY" width="155" style="border-radius: 18px;"/><br/>
-  </a>
+ # <a href="https://github.com/ofirmenda/uply">
+  #  <img src="projects/uply.png" alt="UPLY" width="155" style="border-radius: 18px;"/><br/>
+ # </a>
 </p>
 
 
