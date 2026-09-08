@@ -43,10 +43,13 @@ Currently looking for a **Software Engineering position**.
     <img src="projects/kollab.png" alt="KOLLAB" width="150" style="border-radius: 18px;"/>
   </a>
   &nbsp;
-  <a href="https://github.com/ofirmenda/personal-assistant"/PERSONAL ASSISTANT>
+  <a href="https://github.com/ofirmenda/personal-assistant">
     <img src="projects/personalassistant.png" alt="PERSONAL ASSISTANT" width="155" style="border-radius: 18px;"/>
   </a>
   &nbsp;
+  <a href="https://github.com/ofirmenda/AI-Voice-Agents-System">
+    <img src="voiceagents.png" alt="AI VOICE AGENTS SYSTEM" width="155" style="border-radius: 18px;"/>
+  </a>
 </p>
 
 
