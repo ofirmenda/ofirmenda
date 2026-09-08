@@ -48,7 +48,7 @@ Currently looking for a **Software Engineering position**.
   src="voiceagents.png"
   alt="AI VOICE AGENTS SYSTEM"
   width="155"
-  height="240"
+  height="200"
 />
   </a>
   &nbsp;
