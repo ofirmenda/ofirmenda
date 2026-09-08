@@ -21,7 +21,7 @@
 
 <h2><img src="flower.png" width="26" align="center" alt=""/> About Me</h2>
 
-I'm 25 years old and a third-year Computer Science student.  
+I'm a Computer Science graduate.  
 I enjoy building projects that help me understand how things work and create real value.    
 
 Currently looking for a **Software Engineering position**.
@@ -43,12 +43,12 @@ Currently looking for a **Software Engineering position**.
     <img src="projects/kollab.png" alt="KOLLAB" width="150" style="border-radius: 18px;"/>
   </a>
   &nbsp;
-  <a href="https://github.com/ofirmenda/personal-assistant">
-    <img src="projects/personalassistant.png" alt="PERSONAL ASSISTANT" width="155" style="border-radius: 18px;"/>
-  </a>
-  &nbsp;
   <a href="https://github.com/ofirmenda/AI-Voice-Agents-System">
     <img src="voiceagents.png" alt="AI VOICE AGENTS SYSTEM" width="155" style="border-radius: 18px;"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/ofirmenda/personal-assistant">
+    <img src="projects/personalassistant.png" alt="PERSONAL ASSISTANT" width="155" style="border-radius: 18px;"/>
   </a>
 </p>
 
