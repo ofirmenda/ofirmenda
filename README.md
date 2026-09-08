@@ -44,7 +44,12 @@ Currently looking for a **Software Engineering position**.
   </a>
   &nbsp;
   <a href="https://github.com/ofirmenda/AI-Voice-Agents-System">
-    <img src="voiceagents.png" alt="AI VOICE AGENTS SYSTEM" width="155" style="border-radius: 18px;"/>
+    <img
+  src="voiceagents.png"
+  alt="AI VOICE AGENTS SYSTEM"
+  width="155"
+  height="250"
+/>
   </a>
   &nbsp;
   <a href="https://github.com/ofirmenda/personal-assistant">
